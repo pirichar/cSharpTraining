@@ -1,0 +1,14 @@
+E:\Prog\ToDoList\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.exe
+E:\Prog\ToDoList\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+E:\Prog\ToDoList\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+E:\Prog\ToDoList\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.dll
+E:\Prog\ToDoList\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.dll
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+E:\Prog\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll

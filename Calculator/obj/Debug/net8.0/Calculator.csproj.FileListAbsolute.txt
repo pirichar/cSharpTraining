@@ -1,0 +1,14 @@
+E:\Prog\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.exe
+E:\Prog\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.deps.json
+E:\Prog\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+E:\Prog\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.dll
+E:\Prog\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.pdb
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.dll
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.pdb
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+E:\Prog\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\ref\Calculator.dll
